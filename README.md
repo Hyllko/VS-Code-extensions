@@ -1,10 +1,8 @@
 # VS-Code-extensions
 ```
-code --install-extension bradlc.vscode-tailwindcss
 code --install-extension christian-kohler.path-intellisense
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension dbankier.vscode-quick-select
-code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension ecmel.vscode-html-css
 code --install-extension esbenp.prettier-vscode
 code --install-extension fabiospampinato.vscode-open-in-finder
@@ -15,8 +13,14 @@ code --install-extension kevinkyang.auto-comment-blocks
 code --install-extension lafe.contextualduplicate
 code --install-extension leodevbro.blockman
 code --install-extension mgmcdermott.vscode-language-babel
+code --install-extension ms-python.isort
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-toolsai.vscode-jupyter-cell-tags
+code --install-extension ms-toolsai.vscode-jupyter-slideshow
 code --install-extension ms-vscode.sublime-keybindings
 code --install-extension PKief.material-icon-theme
 code --install-extension pnp.polacode
